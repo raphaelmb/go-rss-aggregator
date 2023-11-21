@@ -1,0 +1,8 @@
+# Binary
+bin
+
+# Env variables
+.env
+
+# Docker Postgres data
+db-data
